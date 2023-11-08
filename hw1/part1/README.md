@@ -60,9 +60,9 @@ test.bash
 
 Output the result to `out/test1` and `out/test2`.
 
-![image](./out/test1/keypoints3.0.png)
+![image](./out/test1/keypoint3.0.png)
 
-![image](./out/test2/keypoints1.0.png)
+![image](./out/test2/keypoint1.0.png)
 
 ### Test.bash
 
